@@ -1,8 +1,8 @@
 Digital Literacy Project
 
 Name: Samriddhi Kesarwani
-Reg no.:25BAI10185
-Course: B.Tech CSE (AI & ML)
+-Reg no.:25BAI10185
+-Course: B.Tech CSE (AI & ML)
 Course Code: CSE0001
 University: VIT Bhopal University
 
