@@ -55,7 +55,7 @@ o Google Forms (Collaboration & Quiz)<br>
 # Key Learnings  
 o Importance of digital presence and professionalism<br> 
 o Effective communication through emails and social media <br>
-o Basics of coding platforms and collaboration tools<br>  
+o Basics of coding platforms and collaboration tools<br>
 o Awareness of cyber threats and preventive measures <br>
 
 Links <br>
