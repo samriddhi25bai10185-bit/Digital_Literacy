@@ -1,4 +1,4 @@
-Digital Literacy Project 
+# Digital Literacy Project 
 
 Name: Samriddhi Kesarwani  
 Reg no.:25BAI10185  
@@ -6,7 +6,7 @@ Course: B.Tech CSE (AI & ML)
 Course Code: CSE0001 
 University: VIT Bhopal University 
 
-Project Overview  
+# Project Overview  
 This project is part of the Digital Literacy (CSE0001) course and focuses on developing essential 
 digital skills. It covers creating presentations, building a professional portfolio, using coding and 
 collaboration platforms, practicing email and social media etiquette, and understanding cyber 
@@ -14,50 +14,51 @@ safety.
 Through these modules, I gained practical knowledge of digital tools and learned how to 
 maintain a responsible and professional online presence. 
 
-Module Summary 
+# Module Summary 
 
-Module 1:  
+## Module 1:  
 Hands-on Training on Presentation Created a digital literacy infographic using tools like 
 Canva/Prezi Learned how to present information visually and effectively Focused on clarity, 
 design, and communication 
 
-Module 2:  
+## Module 2:  
 Building a Digital Portfolio Created/updated professional profiles on platforms like: GitHub 
 LinkedIn Kaggle Learned the importance of maintaining a professional online presence
 
-Module 3: 
+## Module 3: 
 Programming & Collaborative Platforms Practiced coding on platforms like 
 HackerRank/CodeChef Completed beginner-level challenges Created a Google Form quiz for 
 digital literacy awareness . 
 Quiz Link: https://forms.gle/JwCchMnr2nc7J9Lk7 
 
-Module 4: 
+## Module 4: 
 Email Etiquette & Social Media Etiquette Drafted professional emails (assignment request & 
 internship inquiry) Learned proper email structure and tone Created a checklist of Do’s and 
 Don’ts for social media usage 
 
-Module 5:  
+## Module 5:  
 Cybercrime Awareness & Financial Safety Studied cybercrime types like phishing and online 
 fraud Created a case study explaining real-world scenarios Prepared a prevention checklist for 
 staying safe online 
-Includes awareness of: Cybercrime reporting portal: https://cybercrime.gov.in 
+Includes awareness of:<br>
+Cybercrime reporting portal: https://cybercrime.gov.in <br>
 Helpline: 1930 
 
-Tools & Platforms Used 
-o Canva (Design) 
-o GitHub (Version Control & Portfolio) 
-o LinkedIn (Professional Networking) 
-o Kaggle (Learning & Practice) 
-o HackerRank  (Coding Practice)  
-o Google Forms (Collaboration & Quiz) 
+# Tools & Platforms Used 
+o Canva (Design) <br>
+o GitHub (Version Control & Portfolio)<br>
+o LinkedIn (Professional Networking)<br> 
+o Kaggle (Learning & Practice)<br> 
+o HackerRank  (Coding Practice) <br> 
+o Google Forms (Collaboration & Quiz)<br> 
 
-Key Learnings  
-o Importance of digital presence and professionalism 
-o Effective communication through emails and social media 
-o Basics of coding platforms and collaboration tools  
-o Awareness of cyber threats and preventive measures 
+# Key Learnings  
+o Importance of digital presence and professionalism<br> 
+o Effective communication through emails and social media <br>
+o Basics of coding platforms and collaboration tools<br>  
+o Awareness of cyber threats and preventive measures <br>
 
-Links 
-linkedin- https://www.linkedin.com/in/samriddhi-kesarwani-479462370/  
-Kaggle-https://www.kaggle.com/samriddhikesarwani  
-GitHub -https://github.com/samriddhi25bai10185-bit
+Links <br>
+linkedin- https://www.linkedin.com/in/samriddhi-kesarwani-479462370/  <br>
+Kaggle-https://www.kaggle.com/samriddhikesarwani  <br>
+GitHub -https://github.com/samriddhi25bai10185-bit  <br>
